@@ -1,6 +1,6 @@
 # Biomedical Visual Instruction Tuning with Clinician Preference Alignment
 
-Authors: Hejie Cui, Lingjun Mao, Xin Liang, Jieyu Zhang, Hui Ren<, Quanzheng Li, Xiang Li, Carl Yang
+Authors: Hejie Cui*, Lingjun Mao*, Xin Liang, Jieyu Zhang, Hui Ren, Quanzheng Li, Xiang Li, Carl Yang
 
 ---
 
