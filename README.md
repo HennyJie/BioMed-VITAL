@@ -20,6 +20,10 @@ Results show that the model tuned with the instruction-following data from our m
 2. We propose a paradigm involving clinician preference during generation and an effective data selection model based on a mixture of preferences. It is shown that our distilled data selection model excels in matching human preferences compared with judgments of GPT-4.
 3. To facilitate further study, we release 80K clinician preference-aligned instruction-following datasets generated and selected from ours, along with the models instruction-tuned based on them.
 
+## License
+
+The source code of this repository is released under the Apache License 2.0. The model license and dataset license are listed on their corresponding webpages.
+
 ---
 
 ## Case Study
